@@ -1,0 +1,42 @@
+{
+ "Normal": {
+  "conflict": 0.4829565339119479,
+  "recall_ceiling": 1.0
+ },
+ "Recon": {
+  "conflict": 15.734160744670204,
+  "recall_ceiling": 1.0
+ },
+ "Backdoor": {
+  "conflict": 81.38297872340425,
+  "recall_ceiling": 1.0
+ },
+ "DoS": {
+  "conflict": 34.10909090909091,
+  "recall_ceiling": 1.0
+ },
+ "Exploits": {
+  "conflict": 7.22825690748706,
+  "recall_ceiling": 1.0
+ },
+ "Analysis": {
+  "conflict": 77.85433070866141,
+  "recall_ceiling": 1.0
+ },
+ "Fuzzers": {
+  "conflict": 10.548664122137405,
+  "recall_ceiling": 1.0
+ },
+ "Worms": {
+  "conflict": 7.017543859649122,
+  "recall_ceiling": 1.0
+ },
+ "Shellcode": {
+  "conflict": 0.6868131868131868,
+  "recall_ceiling": 1.0
+ },
+ "Generic": {
+  "conflict": 4.1584419002500335,
+  "recall_ceiling": 1.0
+ }
+}

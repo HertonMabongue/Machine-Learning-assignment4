@@ -1,0 +1,2162 @@
+[
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5788224285148155,
+  "sd": 0.0072111185795833135
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5769371508851782,
+  "sd": 0.006815049602604954
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5767872104081668,
+  "sd": 0.005193737105289595
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5765410168381083,
+  "sd": 0.0063761960316015805
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5764284860797276,
+  "sd": 0.007584369571297745
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.575634870925794,
+  "sd": 0.006457369725177249
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5751633490287356,
+  "sd": 0.004056670951350582
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.574607998053325,
+  "sd": 0.0031461106043965898
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5740272947324861,
+  "sd": 0.0058690681456592605
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.572795387616696,
+  "sd": 0.0049305055262801566
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.570207811933648,
+  "sd": 0.004462145625959754
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5696965184200476,
+  "sd": 0.0032920971275822485
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5695651552714159,
+  "sd": 0.004150783336173634
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5690029349889532,
+  "sd": 0.007690301530840073
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5688672225557837,
+  "sd": 0.00795463798934642
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5683550860107954,
+  "sd": 0.003468316725416166
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5680242465031519,
+  "sd": 0.0020190050190675582
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.567718194139372,
+  "sd": 0.00326446618284675
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5675907806501842,
+  "sd": 0.0024588962021887557
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5674586850579372,
+  "sd": 0.001997548696600138
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5673443886518283,
+  "sd": 0.004094437898980665
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5664804326122842,
+  "sd": 0.0035921823031188323
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.566253503568871,
+  "sd": 0.006405683102674574
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5659352877321263,
+  "sd": 0.006057800782040112
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5656173116541591,
+  "sd": 0.005170386958587833
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5655236064310226,
+  "sd": 0.0031661699937444126
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5654410370265006,
+  "sd": 0.00471339296520951
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5649401777199702,
+  "sd": 0.0064164816443526606
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.564924215016155,
+  "sd": 0.009228463850936397
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5641994864647696,
+  "sd": 0.0016381460577144184
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5641567838898173,
+  "sd": 0.0031134709449541277
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5641331227053307,
+  "sd": 0.004238792409741786
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5639127862593394,
+  "sd": 0.004681545120107959
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5637837416365562,
+  "sd": 0.002162961235397362
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.563315715699238,
+  "sd": 0.001402995308664164
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5618161028570571,
+  "sd": 0.006459924888438947
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5617636930219377,
+  "sd": 0.008429721957998126
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5606860918433852,
+  "sd": 0.0022510599261036865
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5601782350756537,
+  "sd": 0.0026372959194063015
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5601248438928538,
+  "sd": 0.0039951516106594915
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5598460805828194,
+  "sd": 0.002646367463543466
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5596231210593893,
+  "sd": 0.009525533379764957
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5594546826475976,
+  "sd": 0.009548247157627938
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5593978626184012,
+  "sd": 0.003248979595275783
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.559137789432832,
+  "sd": 0.005559861147768377
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5591213006414709,
+  "sd": 0.00232367136609292
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5590432825799505,
+  "sd": 0.003942760539145462
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.559038189461731,
+  "sd": 0.00329475907171617
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.558458572206156,
+  "sd": 0.002576755250520423
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5581235283110626,
+  "sd": 0.007910532982120534
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5576755003102203,
+  "sd": 0.004765992667409738
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5570301654200002,
+  "sd": 0.0027805333297175674
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5565591044460413,
+  "sd": 0.006083564308195583
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5546997181890536,
+  "sd": 0.0038972192591383227
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5546359233936816,
+  "sd": 0.0040490948369519214
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5545848522580265,
+  "sd": 0.002693978560197834
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5544350243263149,
+  "sd": 0.003308553975484602
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5544076612829544,
+  "sd": 0.005223165557305028
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5543630087935988,
+  "sd": 0.01401098004207686
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5532157459404937,
+  "sd": 0.006728896336012671
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5529104762557117,
+  "sd": 0.003421045371014078
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5526769864745983,
+  "sd": 0.0029441757248568467
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5526614299732531,
+  "sd": 0.0031566301145699006
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5526296421906403,
+  "sd": 0.005854049176474676
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5524776771099794,
+  "sd": 0.003331389816500695
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5523466258670077,
+  "sd": 0.005525266913226635
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5521274886893633,
+  "sd": 0.00167582178930345
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5516458346981763,
+  "sd": 0.01272928685343327
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5506415849362748,
+  "sd": 0.006639758329267262
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5505806909609868,
+  "sd": 0.00724658896529942
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.55018517657748,
+  "sd": 0.002799328292570149
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5495365795821497,
+  "sd": 0.0024613110363624876
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5494305836893375,
+  "sd": 0.008451513419721692
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5492461820630398,
+  "sd": 0.0019279188286385259
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5491988829583886,
+  "sd": 0.007779205522443579
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5486125186836848,
+  "sd": 0.008971415021983632
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5481922968859284,
+  "sd": 0.0057851178773134174
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5478035750255135,
+  "sd": 0.004260627754297771
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.547374143833195,
+  "sd": 0.0061931758047871245
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5472261398348254,
+  "sd": 0.0017418020211812531
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.546917245258168,
+  "sd": 0.007293158375960563
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5469055960743222,
+  "sd": 0.001809916644042893
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5466147636278009,
+  "sd": 0.009371026537742265
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5458457069569977,
+  "sd": 0.006776605567728579
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.545324953303119,
+  "sd": 0.003534113501842295
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.545057133011536,
+  "sd": 0.005852725851170273
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5447609779381376,
+  "sd": 0.004738622595807334
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5446300581986702,
+  "sd": 0.0031770453817726602
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5444629003938374,
+  "sd": 0.00854160315480687
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5444157908437399,
+  "sd": 0.007776314195863416
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5429390818119953,
+  "sd": 0.009168082297400196
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5424417512698765,
+  "sd": 0.006084931637916582
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5421490993199508,
+  "sd": 0.011185981121206726
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5404381725283565,
+  "sd": 0.0008886387575603306
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5403207479646418,
+  "sd": 0.014385148919113288
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5401050350225712,
+  "sd": 0.00489375504959601
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5398688733594975,
+  "sd": 0.004753028251939011
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5393293103248693,
+  "sd": 0.0021348570389936794
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5390476962345158,
+  "sd": 0.010117002283181204
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5383876338679451,
+  "sd": 0.0027554140187703124
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5358508175581506,
+  "sd": 0.0035178800527840928
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5349637816740506,
+  "sd": 0.0031954306984733854
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.534737132169225,
+  "sd": 0.005813239430272223
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5346028942588169,
+  "sd": 0.008222204073586814
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5345865519755689,
+  "sd": 0.0022031229033713535
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5339311794892915,
+  "sd": 0.004193998810556621
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5334582065407644,
+  "sd": 0.004493571436072689
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5331630404993158,
+  "sd": 0.0003076444478619303
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5331604006424223,
+  "sd": 0.0025917216273713102
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5329027592841673,
+  "sd": 0.0010230374350090501
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5328465143959309,
+  "sd": 0.010964485204421351
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5327502074358827,
+  "sd": 0.004645156893496273
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5327241507825665,
+  "sd": 0.00531789868034003
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5326562809066804,
+  "sd": 0.004777382605559906
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5322521333254074,
+  "sd": 0.003896831768035901
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5321701132043857,
+  "sd": 0.00204435369542529
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5321366220377585,
+  "sd": 0.0008088521682317793
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5319215660576219,
+  "sd": 0.005697988296350828
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5315472682792345,
+  "sd": 0.001903699554067871
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.531175122499604,
+  "sd": 0.004795725778172084
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5310569579512187,
+  "sd": 0.003623196129949043
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5297314398644074,
+  "sd": 0.008432627266539273
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5289083897932857,
+  "sd": 0.0016038381359862288
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5281261742094804,
+  "sd": 0.005614520872837063
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.527919121118069,
+  "sd": 0.0074429874017535175
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5276847671697236,
+  "sd": 0.005417939768908999
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5275177357736959,
+  "sd": 0.003065558980337482
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5264960781884457,
+  "sd": 0.003169737375727583
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5255082426251313,
+  "sd": 0.0047003138946079895
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5253170272938482,
+  "sd": 0.004658624730030853
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5251239606234199,
+  "sd": 0.00403007556460327
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5251023072530567,
+  "sd": 0.006104295927056864
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5249567634127524,
+  "sd": 0.004281466627008579
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5242789134591109,
+  "sd": 0.020162633366396787
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5238787826606596,
+  "sd": 0.001385444018090276
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5228474805440627,
+  "sd": 0.01924021948679166
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5212180079450442,
+  "sd": 0.002998932066406046
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": null,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5212020369539314,
+  "sd": 0.005180841040159171
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.513100878051678,
+  "sd": 0.014711273869738696
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.5128405493223078,
+  "sd": 0.014539379635906437
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5124114523453958,
+  "sd": 0.014746197220845176
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.5120984376782185,
+  "sd": 0.014890393061356304
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5120948750846296,
+  "sd": 0.00825351044490239
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5119307680472249,
+  "sd": 0.008587686293488635
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5119293999544234,
+  "sd": 0.008394130768767605
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5118051571713123,
+  "sd": 0.008505894458356872
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5106442353867924,
+  "sd": 0.007226708410763848
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5104278250102678,
+  "sd": 0.007487612076429918
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.5089868532115721,
+  "sd": 0.0023015563199983214
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.5087067230235373,
+  "sd": 0.0025310158689959626
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.4991926061940073,
+  "sd": 0.011087440391958504
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.4956687646788877,
+  "sd": 0.014594778189327553
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.49547402195395196,
+  "sd": 0.011846698806435026
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.4946114393334787,
+  "sd": 0.013147395846918562
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.4940705300386488,
+  "sd": 0.003721934924668064
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.4932518646663064,
+  "sd": 0.01876049863695585
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4929491617615224,
+  "sd": 0.018738782801040965
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.4924631106639447,
+  "sd": 0.0034242726083628275
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.4838254877252625,
+  "sd": 0.009002712455164699
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.48175100295548506,
+  "sd": 0.007536583393335388
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.4788381727552487,
+  "sd": 0.0024793618453835963
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4787159248308634,
+  "sd": 0.0024314452435529746
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.47449780991385726,
+  "sd": 0.007582191421342415
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.47419968439237553,
+  "sd": 0.0076176374101356945
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4711520896158892,
+  "sd": 0.012831439038014047
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.47066021891765386,
+  "sd": 0.01285948556975181
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.4681213574899628,
+  "sd": 0.015309258661995916
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 20,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4679160474017106,
+  "sd": 0.0164018899738163
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4667668788152715,
+  "sd": 0.003680253461416024
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.4667609936696315,
+  "sd": 0.003605006240737351
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.4617288868815095,
+  "sd": 0.003951414482811418
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.46121999129845676,
+  "sd": 0.013579931376586455
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.46111274464818863,
+  "sd": 0.012881508837486462
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.46048312102822814,
+  "sd": 0.005561670835800818
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.4551367068977827,
+  "sd": 0.016857181150237262
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.4549657282492654,
+  "sd": 0.016682893455611757
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.4496465845427606,
+  "sd": 0.0029180391260706993
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.449532303736333,
+  "sd": 0.003257734384716025
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.44132960973612806,
+  "sd": 0.009634324107014591
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4412010237280446,
+  "sd": 0.009301095424153642
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.43887680560329856,
+  "sd": 0.014237378238259907
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.43857315179433604,
+  "sd": 0.0009523728019577865
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.43857315179433604,
+  "sd": 0.0009523728019577865
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.43850856603744665,
+  "sd": 0.0008619143759245114
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.43850856603744665,
+  "sd": 0.0008619143759245114
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.43758632463795344,
+  "sd": 0.015502337137608239
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.43427310952909776,
+  "sd": 0.001512401381877618
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 15,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.43425625602317464,
+  "sd": 0.0014999838058732246
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.41523524303894116,
+  "sd": 0.010247632186019661
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.4151942252700945,
+  "sd": 0.010010456258608278
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.4125667686733013,
+  "sd": 0.014105376483703701
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.4124935595913448,
+  "sd": 0.01429823499912643
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.40558865579595266,
+  "sd": 0.007226306162214351
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.40529793151204707,
+  "sd": 0.007029417845675097
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.39402967527046145,
+  "sd": 0.017656820221718984
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.39402967527046145,
+  "sd": 0.017656820221718984
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.35803692743955046,
+  "sd": 0.0035973235624514343
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 10,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.3577410701461807,
+  "sd": 0.0034931410020336185
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.35456746017114554,
+  "sd": 0.003887777076784184
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.3545090693312732,
+  "sd": 0.003909345503551781
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.35333298553795345,
+  "sd": 0.010575618169720708
+ },
+ {
+  "encoding": "freq",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.3533173130009417,
+  "sd": 0.010562328272935195
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.3508048420710996,
+  "sd": 0.019140523353480317
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.3507939115038752,
+  "sd": 0.01913117884746938
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.35073765981013555,
+  "sd": 0.019172961862697038
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.35073612202268617,
+  "sd": 0.019172068325870643
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.34186220770810527,
+  "sd": 0.017404522398664118
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.34185244332909176,
+  "sd": 0.017413324384298188
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.33343061254397655,
+  "sd": 0.001812532737498433
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.33342404289001903,
+  "sd": 0.0018204462267816042
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.3313746358215987,
+  "sd": 0.004043078117538914
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.33136704603948686,
+  "sd": 0.004069680814288135
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.32048935226688874,
+  "sd": 0.003563703035083648
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.32048935226688874,
+  "sd": 0.003563703035083648
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.3204863230707038,
+  "sd": 0.0035661790420214424
+ },
+ {
+  "encoding": "top",
+  "criterion": "entropy",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.3204863230707038,
+  "sd": 0.0035661790420214424
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.3148766769786794,
+  "sd": 0.011690781252420715
+ },
+ {
+  "encoding": "top",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.3148677392376053,
+  "sd": 0.011695921078380802
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.3118804259867473,
+  "sd": 0.001241162333159802
+ },
+ {
+  "encoding": "top",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.3118804259867473,
+  "sd": 0.001241162333159802
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.3118782815326558,
+  "sd": 0.0012437288131006512
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gini",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.3118782815326558,
+  "sd": 0.0012437288131006512
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.29850755529169687,
+  "sd": 0.04555130021149459
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.2984993948124815,
+  "sd": 0.04555939152493789
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.2984790286832981,
+  "sd": 0.045525482234759815
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.29843724376531355,
+  "sd": 0.04556694843839369
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.2799857698686665,
+  "sd": 0.019137627220606353
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.27996298197580877,
+  "sd": 0.01916326880828377
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.2782066216534467,
+  "sd": 0.016953649887754264
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.278063623826521,
+  "sd": 0.016990963248568542
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.2750725999708967,
+  "sd": 0.004228343704462832
+ },
+ {
+  "encoding": "freq",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.2750645890955923,
+  "sd": 0.00422966179562352
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 2,
+  "f1": 0.27100948350565585,
+  "sd": 0.0020702951906547114
+ },
+ {
+  "encoding": "freq",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": "balanced",
+  "min_samples_split": 10,
+  "f1": 0.27100948350565585,
+  "sd": 0.0020702951906547114
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.2699181503351838,
+  "sd": 0.029537293842919022
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "c45",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.26990360830987853,
+  "sd": 0.02956110907399119
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.23975227356285733,
+  "sd": 0.006652534450905721
+ },
+ {
+  "encoding": "top",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.2397412246314509,
+  "sd": 0.006640522283432439
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 2,
+  "f1": 0.23973736089244282,
+  "sd": 0.006639594306535053
+ },
+ {
+  "encoding": "onehot",
+  "criterion": "gain_ratio",
+  "max_depth": 5,
+  "class_weight": null,
+  "min_samples_split": 10,
+  "f1": 0.23971675426716435,
+  "sd": 0.006666943691296602
+ }
+]

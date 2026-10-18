@@ -1,0 +1,1 @@
+{"enc": "top", "max_features": 0.25, "leaf": 2, "depth": 15, "crit": "entropy", "alpha": 1, "beta": 0.5, "cc": false}

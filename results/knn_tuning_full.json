@@ -1,0 +1,974 @@
+[
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 51,
+  "weighting": "uniform",
+  "f1": 0.4564280949484785,
+  "acc": 0.7888,
+  "f1_prior": 0.5347012801714549
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 101,
+  "weighting": "uniform",
+  "f1": 0.45324364096503966,
+  "acc": 0.7849333333333334,
+  "f1_prior": 0.5317482564131153
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 31,
+  "weighting": "uniform",
+  "f1": 0.45802824659053787,
+  "acc": 0.7882,
+  "f1_prior": 0.5311188059112906
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 51,
+  "weighting": "uniform",
+  "f1": 0.45206005169381924,
+  "acc": 0.7860666666666667,
+  "f1_prior": 0.5306014874826612
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 21,
+  "weighting": "uniform",
+  "f1": 0.4653211863121827,
+  "acc": 0.7928,
+  "f1_prior": 0.5305493980989536
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 51,
+  "weighting": "uniform",
+  "f1": 0.457860133297176,
+  "acc": 0.7860666666666667,
+  "f1_prior": 0.5296444211004783
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 21,
+  "weighting": "uniform",
+  "f1": 0.45505874606653396,
+  "acc": 0.7868,
+  "f1_prior": 0.525501540795266
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 51,
+  "weighting": "uniform",
+  "f1": 0.44202396686028306,
+  "acc": 0.7817333333333333,
+  "f1_prior": 0.5252927060605639
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 7,
+  "weighting": "uniform",
+  "f1": 0.4827597653486942,
+  "acc": 0.7818,
+  "f1_prior": 0.52521070459867
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 11,
+  "weighting": "uniform",
+  "f1": 0.48914277520608973,
+  "acc": 0.7846,
+  "f1_prior": 0.5249784406882155
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 15,
+  "weighting": "uniform",
+  "f1": 0.47062803927588454,
+  "acc": 0.7861333333333334,
+  "f1_prior": 0.5231202817996012
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 15,
+  "weighting": "uniform",
+  "f1": 0.4618601116821123,
+  "acc": 0.7914666666666667,
+  "f1_prior": 0.5216875240942696
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 15,
+  "weighting": "uniform",
+  "f1": 0.46649303012498944,
+  "acc": 0.7846,
+  "f1_prior": 0.5212699265876133
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 11,
+  "weighting": "uniform",
+  "f1": 0.46730301215016895,
+  "acc": 0.7842666666666667,
+  "f1_prior": 0.5207259627449397
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 11,
+  "weighting": "uniform",
+  "f1": 0.46370908106228,
+  "acc": 0.7916666666666666,
+  "f1_prior": 0.5197270486156993
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 101,
+  "weighting": "uniform",
+  "f1": 0.44724296842002004,
+  "acc": 0.7803333333333333,
+  "f1_prior": 0.5180843890607871
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 7,
+  "weighting": "uniform",
+  "f1": 0.48582320272096097,
+  "acc": 0.7831333333333333,
+  "f1_prior": 0.5178999101843837
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 7,
+  "weighting": "uniform",
+  "f1": 0.47352526203754275,
+  "acc": 0.7880666666666667,
+  "f1_prior": 0.5156433671526253
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 31,
+  "weighting": "uniform",
+  "f1": 0.46568686181943575,
+  "acc": 0.7928666666666667,
+  "f1_prior": 0.5149397257214103
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 21,
+  "weighting": "uniform",
+  "f1": 0.46425890679472354,
+  "acc": 0.7894,
+  "f1_prior": 0.5143404062254104
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 21,
+  "weighting": "uniform",
+  "f1": 0.4555111212738779,
+  "acc": 0.7844,
+  "f1_prior": 0.5141320182628669
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 31,
+  "weighting": "uniform",
+  "f1": 0.4561964491733166,
+  "acc": 0.7876666666666666,
+  "f1_prior": 0.5130250377616836
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 101,
+  "weighting": "uniform",
+  "f1": 0.4491935811732632,
+  "acc": 0.781,
+  "f1_prior": 0.5108797676054168
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 15,
+  "weighting": "uniform",
+  "f1": 0.4675591808105356,
+  "acc": 0.7748,
+  "f1_prior": 0.5105454963720755
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 51,
+  "weighting": "uniform",
+  "f1": 0.43579625951198897,
+  "acc": 0.7731333333333333,
+  "f1_prior": 0.509524502304431
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 5,
+  "weighting": "uniform",
+  "f1": 0.4783465746005217,
+  "acc": 0.7750666666666667,
+  "f1_prior": 0.5080993871045788
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 31,
+  "weighting": "uniform",
+  "f1": 0.44743448086595805,
+  "acc": 0.7748666666666667,
+  "f1_prior": 0.5075478614414094
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 21,
+  "weighting": "uniform",
+  "f1": 0.4709523793616294,
+  "acc": 0.7749333333333334,
+  "f1_prior": 0.5068148901384131
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 11,
+  "weighting": "uniform",
+  "f1": 0.46645601459834063,
+  "acc": 0.774,
+  "f1_prior": 0.5067095109691389
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 7,
+  "weighting": "uniform",
+  "f1": 0.46254781150813,
+  "acc": 0.7706666666666667,
+  "f1_prior": 0.5043168485828962
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 11,
+  "weighting": "uniform",
+  "f1": 0.4645890600661671,
+  "acc": 0.7748,
+  "f1_prior": 0.5037307707038589
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 31,
+  "weighting": "uniform",
+  "f1": 0.4534085308551507,
+  "acc": 0.7834,
+  "f1_prior": 0.5027630113021269
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 101,
+  "weighting": "uniform",
+  "f1": 0.4280523472299486,
+  "acc": 0.7651333333333333,
+  "f1_prior": 0.5026788294921744
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 5,
+  "weighting": "uniform",
+  "f1": 0.4785285699501509,
+  "acc": 0.776,
+  "f1_prior": 0.5022029669364774
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 21,
+  "weighting": "uniform",
+  "f1": 0.46889834490563675,
+  "acc": 0.7752,
+  "f1_prior": 0.5015057958555543
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 15,
+  "weighting": "uniform",
+  "f1": 0.4709410160586227,
+  "acc": 0.774,
+  "f1_prior": 0.49981980779648405
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 5,
+  "weighting": "uniform",
+  "f1": 0.47724682208349545,
+  "acc": 0.7863333333333333,
+  "f1_prior": 0.4986272871815906
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 31,
+  "weighting": "distance",
+  "f1": 0.44301213072228973,
+  "acc": 0.7875333333333333,
+  "f1_prior": 0.4955028062136926
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 11,
+  "weighting": "uniform",
+  "f1": 0.45252272908206137,
+  "acc": 0.7849333333333334,
+  "f1_prior": 0.4949318311122808
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 101,
+  "weighting": "uniform",
+  "f1": 0.4276262317849439,
+  "acc": 0.7680666666666667,
+  "f1_prior": 0.4944010737920037
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 15,
+  "weighting": "uniform",
+  "f1": 0.45443916708065774,
+  "acc": 0.7857333333333333,
+  "f1_prior": 0.49396797095021444
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 31,
+  "weighting": "uniform",
+  "f1": 0.4376599489152686,
+  "acc": 0.7735333333333333,
+  "f1_prior": 0.4930325033612755
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 7,
+  "weighting": "uniform",
+  "f1": 0.4560020896386338,
+  "acc": 0.7798,
+  "f1_prior": 0.49206912107619555
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 7,
+  "weighting": "uniform",
+  "f1": 0.4588897893447105,
+  "acc": 0.7670666666666667,
+  "f1_prior": 0.4912777788289773
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 101,
+  "weighting": "uniform",
+  "f1": 0.4395699695063578,
+  "acc": 0.7754,
+  "f1_prior": 0.4909420193817362
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 51,
+  "weighting": "uniform",
+  "f1": 0.4387275647583291,
+  "acc": 0.7738666666666667,
+  "f1_prior": 0.4908209366119891
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 3,
+  "weighting": "uniform",
+  "f1": 0.4774916733000227,
+  "acc": 0.773,
+  "f1_prior": 0.49066139778799106
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 3,
+  "weighting": "uniform",
+  "f1": 0.47138350740760104,
+  "acc": 0.7799333333333334,
+  "f1_prior": 0.4896826745072168
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 5,
+  "weighting": "uniform",
+  "f1": 0.4622162147397873,
+  "acc": 0.7658,
+  "f1_prior": 0.4893362835708999
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 5,
+  "weighting": "distance",
+  "f1": 0.4731819561126923,
+  "acc": 0.7846666666666666,
+  "f1_prior": 0.4893120082465125
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 21,
+  "weighting": "distance",
+  "f1": 0.44853925954357693,
+  "acc": 0.7876,
+  "f1_prior": 0.4881793232270531
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 7,
+  "weighting": "distance",
+  "f1": 0.4715235525622436,
+  "acc": 0.7872,
+  "f1_prior": 0.4875228710325983
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 5,
+  "weighting": "uniform",
+  "f1": 0.45899950492394603,
+  "acc": 0.7777333333333334,
+  "f1_prior": 0.4862090477648162
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 51,
+  "weighting": "distance",
+  "f1": 0.4376449112779236,
+  "acc": 0.7836,
+  "f1_prior": 0.48556158128053095
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 11,
+  "weighting": "distance",
+  "f1": 0.4539857302729711,
+  "acc": 0.7891333333333334,
+  "f1_prior": 0.4851400198979734
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 15,
+  "weighting": "distance",
+  "f1": 0.45170050216876295,
+  "acc": 0.7876666666666666,
+  "f1_prior": 0.48501476781860164
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 21,
+  "weighting": "distance",
+  "f1": 0.4510138147167314,
+  "acc": 0.7824,
+  "f1_prior": 0.48486011175246013
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 5,
+  "weighting": "uniform",
+  "f1": 0.4483584823820513,
+  "acc": 0.7632,
+  "f1_prior": 0.4845216807698518
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 51,
+  "weighting": "distance",
+  "f1": 0.4272277099554291,
+  "acc": 0.7798,
+  "f1_prior": 0.4817567062319973
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 3,
+  "weighting": "uniform",
+  "f1": 0.4695612383737443,
+  "acc": 0.7714,
+  "f1_prior": 0.47924887855427445
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 31,
+  "weighting": "distance",
+  "f1": 0.43561007385487327,
+  "acc": 0.7826,
+  "f1_prior": 0.47906457949615655
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 11,
+  "weighting": "distance",
+  "f1": 0.4708771241671199,
+  "acc": 0.7828666666666667,
+  "f1_prior": 0.4779057207557244
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 3,
+  "weighting": "distance",
+  "f1": 0.463471611914349,
+  "acc": 0.7796666666666666,
+  "f1_prior": 0.4770150150645404
+ },
+ {
+  "metric": "manhattan",
+  "scaling": null,
+  "k": 101,
+  "weighting": "distance",
+  "f1": 0.4308765891686478,
+  "acc": 0.7796666666666666,
+  "f1_prior": 0.4769485001447873
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 7,
+  "weighting": "distance",
+  "f1": 0.4528319220575045,
+  "acc": 0.7782,
+  "f1_prior": 0.4747147365013573
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 11,
+  "weighting": "distance",
+  "f1": 0.45514183289858334,
+  "acc": 0.7816,
+  "f1_prior": 0.474413343002987
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 15,
+  "weighting": "distance",
+  "f1": 0.4648998021098925,
+  "acc": 0.7824,
+  "f1_prior": 0.47294802411723824
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 5,
+  "weighting": "distance",
+  "f1": 0.4667592971831927,
+  "acc": 0.7751333333333333,
+  "f1_prior": 0.47266838820318846
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 11,
+  "weighting": "distance",
+  "f1": 0.4607894846324667,
+  "acc": 0.7822,
+  "f1_prior": 0.4726016804757571
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 5,
+  "weighting": "distance",
+  "f1": 0.4627428063262616,
+  "acc": 0.7738,
+  "f1_prior": 0.4716795104242073
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 15,
+  "weighting": "distance",
+  "f1": 0.45707210513841756,
+  "acc": 0.7828666666666667,
+  "f1_prior": 0.47028546073244754
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 21,
+  "weighting": "distance",
+  "f1": 0.4544925078559497,
+  "acc": 0.7840666666666667,
+  "f1_prior": 0.46992000192892114
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 7,
+  "weighting": "distance",
+  "f1": 0.46849163976354724,
+  "acc": 0.7799333333333334,
+  "f1_prior": 0.46823559919542845
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 7,
+  "weighting": "distance",
+  "f1": 0.4705531632142196,
+  "acc": 0.7822666666666667,
+  "f1_prior": 0.4673722341235793
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 3,
+  "weighting": "uniform",
+  "f1": 0.44574590147151893,
+  "acc": 0.7570666666666667,
+  "f1_prior": 0.46720272833716414
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 5,
+  "weighting": "distance",
+  "f1": 0.452856552709587,
+  "acc": 0.7756,
+  "f1_prior": 0.4666791037768232
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 31,
+  "weighting": "distance",
+  "f1": 0.4389997758148046,
+  "acc": 0.7836,
+  "f1_prior": 0.4663636234588417
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 15,
+  "weighting": "distance",
+  "f1": 0.4401508019682664,
+  "acc": 0.7821333333333333,
+  "f1_prior": 0.4663196781926353
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 31,
+  "weighting": "distance",
+  "f1": 0.43418160490072344,
+  "acc": 0.7793333333333333,
+  "f1_prior": 0.46560732147204226
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 3,
+  "weighting": "uniform",
+  "f1": 0.4531608848252488,
+  "acc": 0.7559333333333333,
+  "f1_prior": 0.46550505560446
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 3,
+  "weighting": "uniform",
+  "f1": 0.456669954057438,
+  "acc": 0.7709333333333334,
+  "f1_prior": 0.46537738356064395
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 51,
+  "weighting": "distance",
+  "f1": 0.43107933403571924,
+  "acc": 0.7792,
+  "f1_prior": 0.46520698285427825
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 31,
+  "weighting": "distance",
+  "f1": 0.4429620963912675,
+  "acc": 0.7696,
+  "f1_prior": 0.4651974828908594
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 51,
+  "weighting": "distance",
+  "f1": 0.425309630386578,
+  "acc": 0.7776,
+  "f1_prior": 0.4645319688847245
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 21,
+  "weighting": "distance",
+  "f1": 0.4369839579832716,
+  "acc": 0.7804666666666666,
+  "f1_prior": 0.4644405096376468
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 101,
+  "weighting": "distance",
+  "f1": 0.4200139024232291,
+  "acc": 0.7753333333333333,
+  "f1_prior": 0.4637814531753054
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 101,
+  "weighting": "distance",
+  "f1": 0.4033540227994372,
+  "acc": 0.7620666666666667,
+  "f1_prior": 0.46343282436133715
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 11,
+  "weighting": "distance",
+  "f1": 0.44732354296617577,
+  "acc": 0.771,
+  "f1_prior": 0.46334068006277385
+ },
+ {
+  "metric": "gower",
+  "scaling": "quantile",
+  "k": 3,
+  "weighting": "distance",
+  "f1": 0.4602075662257644,
+  "acc": 0.7716,
+  "f1_prior": 0.46303685420169494
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 3,
+  "weighting": "distance",
+  "f1": 0.4559360866535159,
+  "acc": 0.7697333333333334,
+  "f1_prior": 0.46176348078587437
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 51,
+  "weighting": "distance",
+  "f1": 0.4137175872077118,
+  "acc": 0.7679333333333334,
+  "f1_prior": 0.4596531065183921
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 21,
+  "weighting": "distance",
+  "f1": 0.44394046450680086,
+  "acc": 0.7710666666666667,
+  "f1_prior": 0.45809606259996416
+ },
+ {
+  "metric": "gower",
+  "scaling": "range",
+  "k": 101,
+  "weighting": "distance",
+  "f1": 0.41913233340739636,
+  "acc": 0.7743333333333333,
+  "f1_prior": 0.45752352123006224
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 3,
+  "weighting": "distance",
+  "f1": 0.4475912811265646,
+  "acc": 0.77,
+  "f1_prior": 0.45731750402745747
+ },
+ {
+  "metric": "euclidean",
+  "scaling": null,
+  "k": 101,
+  "weighting": "distance",
+  "f1": 0.41518647395220337,
+  "acc": 0.7699333333333334,
+  "f1_prior": 0.45338119044357694
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 7,
+  "weighting": "distance",
+  "f1": 0.44874356175077496,
+  "acc": 0.7696666666666667,
+  "f1_prior": 0.4511172618659247
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 15,
+  "weighting": "distance",
+  "f1": 0.4432458865434363,
+  "acc": 0.7718666666666667,
+  "f1_prior": 0.4507845559722247
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 7,
+  "weighting": "distance",
+  "f1": 0.44761726443797273,
+  "acc": 0.7665333333333333,
+  "f1_prior": 0.45037017317619127
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 11,
+  "weighting": "distance",
+  "f1": 0.44616758189146666,
+  "acc": 0.7726,
+  "f1_prior": 0.44987504253969884
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 15,
+  "weighting": "distance",
+  "f1": 0.44808337124127434,
+  "acc": 0.7711333333333333,
+  "f1_prior": 0.44966827601906956
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 5,
+  "weighting": "distance",
+  "f1": 0.4420229180402414,
+  "acc": 0.7607333333333334,
+  "f1_prior": 0.44933015557747835
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 101,
+  "weighting": "distance",
+  "f1": 0.4024986604850895,
+  "acc": 0.7638,
+  "f1_prior": 0.4474263486992558
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 3,
+  "weighting": "distance",
+  "f1": 0.43432954553207903,
+  "acc": 0.7558666666666667,
+  "f1_prior": 0.44720410118364595
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 51,
+  "weighting": "distance",
+  "f1": 0.41340190321279585,
+  "acc": 0.7684,
+  "f1_prior": 0.4455233520462043
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 21,
+  "weighting": "distance",
+  "f1": 0.44377173294886163,
+  "acc": 0.7718666666666667,
+  "f1_prior": 0.4453392324219205
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 31,
+  "weighting": "distance",
+  "f1": 0.4423636937299794,
+  "acc": 0.7708666666666667,
+  "f1_prior": 0.44443757262104827
+ },
+ {
+  "metric": "heom",
+  "scaling": "range",
+  "k": 5,
+  "weighting": "distance",
+  "f1": 0.44728726200519386,
+  "acc": 0.7655333333333333,
+  "f1_prior": 0.4417060821290739
+ },
+ {
+  "metric": "heom",
+  "scaling": "quantile",
+  "k": 3,
+  "weighting": "distance",
+  "f1": 0.43672230177039956,
+  "acc": 0.7538,
+  "f1_prior": 0.4388064718552171
+ }
+]
